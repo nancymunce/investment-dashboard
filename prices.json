@@ -2,54 +2,54 @@
   "benchmark": {
     "label": "S&P 500",
     "prevClose": 774.83,
-    "price": 781.19
+    "price": 780.11
   },
   "prices": {
     "BND": {
-      "price": 70.1,
+      "price": 70.06,
       "prevClose": 69.88
     },
     "COST": {
-      "price": 929.74,
+      "price": 934.64,
       "prevClose": 923.52
     },
     "HON": {
-      "price": 211.54,
+      "price": 212.15,
       "prevClose": 214.14
     },
     "JNJ": {
-      "price": 254.2,
+      "price": 255.32,
       "prevClose": 252.93
     },
     "JPM": {
-      "price": 331.99,
+      "price": 331.62,
       "prevClose": 332.38
     },
     "MSFT": {
-      "price": 532.5,
+      "price": 530.62,
       "prevClose": 525.18
     },
     "NEE": {
-      "price": 77.19,
+      "price": 77.42,
       "prevClose": 76.28
     },
     "PG": {
-      "price": 148.64,
+      "price": 148.82,
       "prevClose": 145.94
     },
     "TSM": {
-      "price": 483.49,
+      "price": 484.6,
       "prevClose": 485.8
     },
     "VTI": {
-      "price": 383.69,
+      "price": 382.95,
       "prevClose": 380.6
     },
     "VXUS": {
-      "price": 86.14,
+      "price": 85.98,
       "prevClose": 85.85
     }
   },
   "source": "sample data \u2014 replaced automatically by the GitHub Action (.github/workflows/update-prices.yml)",
-  "updated": "2026-10-06T15:49:52+00:00"
+  "updated": "2026-10-06T18:53:06+00:00"
 }
