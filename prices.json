@@ -1,55 +1,55 @@
 {
   "benchmark": {
     "label": "S&P 500",
-    "prevClose": 715.87,
-    "price": 687.89
+    "prevClose": 689.81,
+    "price": 722.29
   },
   "prices": {
     "BND": {
-      "price": 71.34,
-      "prevClose": 70.91
+      "price": 71.36,
+      "prevClose": 71.33
     },
     "COST": {
-      "price": 1102.22,
-      "prevClose": 1093.83
+      "price": 1097.91,
+      "prevClose": 1102.15
     },
     "HON": {
-      "price": 212.44,
-      "prevClose": 217.84
+      "price": 221.97,
+      "prevClose": 212.64
     },
     "JNJ": {
-      "price": 269.92,
-      "prevClose": 267.14
+      "price": 270.05,
+      "prevClose": 270.47
     },
     "JPM": {
-      "price": 309.43,
-      "prevClose": 320.22
+      "price": 316.66,
+      "prevClose": 310.53
     },
     "MSFT": {
-      "price": 482.93,
-      "prevClose": 498.3
+      "price": 492.5,
+      "prevClose": 484.52
     },
     "NEE": {
-      "price": 83.35,
-      "prevClose": 83.79
+      "price": 83.97,
+      "prevClose": 83.45
     },
     "PG": {
-      "price": 169.07,
-      "prevClose": 167.85
+      "price": 169.6,
+      "prevClose": 169.37
     },
     "TSM": {
-      "price": 319.24,
-      "prevClose": 352.09
+      "price": 363.6,
+      "prevClose": 318.71
     },
     "VTI": {
-      "price": 338.89,
-      "prevClose": 352.41
+      "price": 355.27,
+      "prevClose": 340.02
     },
     "VXUS": {
-      "price": 75.23,
-      "prevClose": 77.93
+      "price": 78.25,
+      "prevClose": 75.38
     }
   },
   "source": "sample data \u2014 replaced automatically by the GitHub Action (.github/workflows/update-prices.yml)",
-  "updated": "2026-11-20T21:00:27+00:00"
+  "updated": "2026-11-24T00:44:45+00:00"
 }
